@@ -3,20 +3,20 @@ import '../Styles/About.css';
 import Domains from './Domain';
 
 const teamData = [
-  { id: 1, name: "Ashmit Singh", imageUrl: "src/assets/pictures/ashmit.jpg" },
-  { id: 2, name: "Ayush Kumar", imageUrl: "src/assets/pictures/ayushphto.jpg" },
-  { id: 3, name: "Dhruv Tiwari", imageUrl: "src/assets/pictures/dhruv.jpg" },
-  { id: 4, name: "Yash Aggarwal", imageUrl: "src/assets/pictures/yash.jpg" },
-  { id: 5, name: "Vinay Kumar", imageUrl: "src/assets/pictures/vinay.jpg" },
-  { id: 6, name: "Avinesh Rathore", imageUrl: "src/assets/pictures/avineshboss.jpg" },
-  { id: 7, name: "Anany Srivastava", imageUrl: "src/assets/pictures/ananyboss.jpg" },
-  { id: 8, name: "Devansh Gupta", imageUrl: "src/assets/pictures/devanshboss.jpg" },
-  { id: 9, name: "Prateek Singh", imageUrl: "src/assets/pictures/prateekboss.jpg" },
-  { id: 10, name: "Vansh Nigam", imageUrl: "src/assets/pictures/vanshboss.jpg" },
-  { id: 11, name: "Gopal Patidar", imageUrl: "src/assets/pictures/gopalboss.jpg" },
-  { id: 12, name: "Jash Parmar", imageUrl: "src/assets/pictures/jashboss.jpg" },
-  { id: 13, name: "Hari Om Meena", imageUrl: "src/assets/pictures/hariboss.jpg" },
-  { id: 14, name: "Om", imageUrl: "src/assets/pictures/omboss.jpg" }
+  { id: 1, name: "Ashmit Singh", imageUrl: "/pictures/ashmit.jpg" },
+  { id: 2, name: "Ayush Kumar", imageUrl: "/pictures/ayushphto.jpg" },
+  { id: 3, name: "Dhruv Tiwari", imageUrl: "/pictures/dhruv.jpg" },
+  { id: 4, name: "Yash Aggarwal", imageUrl: "/pictures/yash.jpg" },
+  { id: 5, name: "Vinay Kumar", imageUrl: "/pictures/vinay.jpg" },
+  { id: 6, name: "Avinesh Rathore", imageUrl: "/pictures/avineshboss.jpg" },
+  { id: 7, name: "Anany Srivastava", imageUrl: "/pictures/ananyboss.jpg" },
+  { id: 8, name: "Devansh Gupta", imageUrl: "/pictures/devanshboss.jpg" },
+  { id: 9, name: "Prateek Singh", imageUrl: "/pictures/prateekboss.jpg" },
+  { id: 10, name: "Vansh Nigam", imageUrl: "/pictures/vanshboss.jpg" },
+  { id: 11, name: "Gopal Patidar", imageUrl: "/pictures/gopalboss.jpg" },
+  { id: 12, name: "Jash Parmar", imageUrl: "/pictures/jashboss.jpg" },
+  { id: 13, name: "Hari Om Meena", imageUrl: "/pictures/hariboss.jpg" },
+  { id: 14, name: "Om", imageUrl: "/pictures/omboss.jpg" }
 ];
 
 const Team = () => {

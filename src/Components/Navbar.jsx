@@ -117,7 +117,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href="/assets/HackTheChain3.O.pdf"
+              href="/HackTheChain3.O.pdf"
               className="text-white text-sm sm:text-base md:text-lg cursor-pointer transition-colors duration-300 hover:text-yellow-500"
               download
             >
